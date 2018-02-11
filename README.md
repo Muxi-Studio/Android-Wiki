@@ -1,10 +1,9 @@
 # Muxi-Android wiki
 
----
 
 ## 工作流  
 
-[Git工作流]()   
+[Git工作流](workflow/git-workflow.md)   
 [发版规范](workflow/发版规范.md)
 
 ## 技术积累
@@ -27,6 +26,6 @@
 导入可参考这篇[博客](https://blog.metova.com/how-to-import-the-official-android-code-style-to-android-studiointellij/)
 
 
-## Product
+## Products
 
 [华师匣子](https://github.com/A-portfolio/HuashiApp)
