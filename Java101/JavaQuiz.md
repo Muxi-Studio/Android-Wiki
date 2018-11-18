@@ -10,13 +10,20 @@ Java 基础算法和Java 基础数据结构和类的使用 推荐阅读[《算�
 4. 手写一个二分查找 
  
 
-- Java 特性
+- Java 特性 (Java simple libs)
 1. 用LinkedList(Java的一种数据结构)实现一个Stack 和 一个Queue（Stack 不使用JDK中的Stack类 Queue不是JDK中的接口 需要自己实现）
 2. 自己使用接口完成一个``回调函数``，情景： 每个超级英雄又不一样的超能力，神奇女侠会飞行和神力，蝙蝠侠有洞察力等等..要求英雄Hero和 能力Power，能力作为一个接口，各个英雄是抽象类Hero的子类。 要求不同的英雄的能力 在使用的时候，``usePower()`` 有不同的表现``usePower()``是接口中的一个方法
 3. 注解： 使用注解实现类似于[Retrofit](https://square.github.io/retrofit/)的网络请求的注解（@GET @POST @DELETE @PUT ）， 要求也实现一个注解解析器 能够分析出url中的path，header字段就可以。上面的四种网络请求注解不需要实现网络请求过程，只需要运用注解即可。
 4. 使用Android 原生的JSONArray JSONObject，或者是其他的JSON库实现[github api(随便选取一种)的解析](https://developer.github.com/v3/)
 
-## Java 多线程部分  
+## Java 多线程部分
+1. 自己实现一个classLoader
+2. 泛型
+3. 异常
+4. java8
+5. 反射 
+
+## Java libs
 
 
 ## 设计模式
